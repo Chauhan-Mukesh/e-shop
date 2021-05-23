@@ -1,0 +1,79 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="form" />
+            <item index="7" class="java.lang.String" itemvalue="div" />
+            <item index="8" class="java.lang.String" itemvalue="li" />
+            <item index="9" class="java.lang.String" itemvalue="a" />
+            <item index="10" class="java.lang.String" itemvalue="tr" />
+            <item index="11" class="java.lang.String" itemvalue="h5" />
+            <item index="12" class="java.lang.String" itemvalue="th" />
+            <item index="13" class="java.lang.String" itemvalue="td" />
+            <item index="14" class="java.lang.String" itemvalue="productbox" />
+            <item index="15" class="java.lang.String" itemvalue="p" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E101" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="user.models.Order.*" />
+          <option value="user.models.Product.*" />
+          <option value="user.models.Size.*" />
+          <option value="user.models.ImageTemplate.*" />
+          <option value="user.models.Color.*" />
+          <option value="user.models.PaperChoice.*" />
+          <option value="user.models.ShrinkWrapping.*" />
+          <option value="user.models.AqutousCoating.*" />
+          <option value="user.models.FoldingOptions.*" />
+          <option value="user.models.NoOfMonths.*" />
+          <option value="user.models.HoleDrilling.*" />
+          <option value="user.models.BindingMethod.*" />
+          <option value="user.models.FeedBack.*" />
+          <option value="user.models.Gallary.*" />
+          <option value="user.models.Payment.*" />
+          <option value="user.models.Packages.*" />
+          <option value="admin1.views.packages.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
